@@ -1,0 +1,27 @@
+{
+  "name": "mean-api",
+  "version": "1.0.0",
+  "description": "MEAN API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "MEAN",
+    "con",
+    "Bootstrap",
+    "21253"
+  ],
+  "author": "Aurelio Marín Bautista",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
